@@ -2,7 +2,7 @@ import customtkinter as ctk # Import customtkinter
 from subprocess import run # Import run function from subprocess
 from sys import exit as leave # Import leave function from sys
 
-model_name = "abot" # Replace with the model that you choose
+model_name = "llama3.1:8b" # Replace with the model that you choose
 history = [] # History list
 
 def add(msg, anchor): # Create add() function.
