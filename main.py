@@ -39,7 +39,7 @@ def say(event=None): # Create the say() function
             prompt = history_text + f"\nUser: {text}" # Create the final prompt
 
             try: # To catch an error
-                result = run(["ollama", "run", "abot", prompt], text=True, capture_output=True, encoding="utf-8") # Give the prompt to the Ollama model
+                result = run(["ollama", "run", model_name, prompt], text=True, capture_output=True, encoding="utf-8") # Give the prompt to the Ollama model
             except Exception as err: # If an error occured
                 loading_lbl.configure(text=f"Error: {err}") # Replace the loading text with the error
             
