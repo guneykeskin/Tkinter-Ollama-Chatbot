@@ -3,6 +3,8 @@
 A simple chatbot with a **custom GUI** built using [customtkinter](https://github.com/TomSchimansky/CustomTkinter) and [Ollama](https://ollama.com).
 Developed when I was 11 years old.
 
+![Screenshot](images/image.png)
+
 ---
 
 ## 🚀 Features
