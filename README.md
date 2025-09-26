@@ -54,6 +54,7 @@ Open cmd and navigate to the folder:
 `cd C:\Users\User\Documents\VS-Projects`
 
 ❌ Not like this (because main.py is a file, not a folder):
+
 `cd C:\Users\User\Documents\VS-Projects\main.py`
 
 Run the script:
