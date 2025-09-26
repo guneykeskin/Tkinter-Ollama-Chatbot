@@ -1,15 +1,22 @@
 # Chat App 🤖
 
+![Python 3.x](https://img.shields.io/badge/Python-3.x-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 A simple chatbot with a **custom GUI** built using [customtkinter](https://github.com/TomSchimansky/CustomTkinter) and [Ollama](https://ollama.com).
 Developed when I was 11 years old.
 
-![Screenshot](images/image.png)
+<p align="center">
+  <img src="images/image.png" alt="Screenshot" width="500" style="margin-right:20px;"/>
+  <img src="images/demo.gif" alt="Demo GIF" width="500"/>
+</p>
 
 ---
 
 ## 🚀 Features
 - Chatbot powered by Ollama
 - Custom GUI with clean, minimal design
+- Lightweight and easy to run
 - Special commands:
     - `/exit`, `/quit`, `/leave` → exit the program
     - `/clear`, `/cls` → clear messages
