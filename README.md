@@ -31,6 +31,7 @@ Open **cmd** and run:
 `pip install customtkinter`
 
 ### 2️⃣ Install Ollama model:
+Open **cmd** and run:
 
 `ollama pull [model_name]`
 
