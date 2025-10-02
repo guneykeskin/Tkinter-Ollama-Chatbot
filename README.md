@@ -74,6 +74,9 @@ A window will appear and you can start using the chatbot 🎉
 
 To see how it works, check out this  [YouTube video](url)
 
+## 🤝 Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests.
+
 ## 🙏 Acknowledgements
 - [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
 - [Ollama](https://ollama.com/)  
