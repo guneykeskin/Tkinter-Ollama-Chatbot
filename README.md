@@ -8,7 +8,7 @@
 ![Forks](https://img.shields.io/github/forks/guneykeskin/Tkinter-Ollama-Chatbot)
 
 A simple chatbot with a **custom GUI** built using [customtkinter](https://github.com/TomSchimansky/CustomTkinter) and [Ollama](https://ollama.com).
-Developed when I was 11 years old.
+Developed when I was 11 years old and published in github when i was 11 yearso old.
 
 <p align="center">
   <img src="images/image.png" alt="Screenshot" style="max-width: 100%; height: auto;"/><br>
