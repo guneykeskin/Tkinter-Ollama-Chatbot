@@ -72,7 +72,7 @@ A window will appear and you can start using the chatbot 🎉
 
 ## 🎥 Demo
 
-To see how it works, check out this  [YouTube video](url)
+To see how it works, check out this  [YouTube video]([url](https://youtu.be/QFxAxb9vbEw?si=khJc7qi9lNXMqJjY))
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
